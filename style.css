@@ -1,0 +1,219 @@
+:root {
+  --bg-midnight: #0b0f19;
+  --panel-dark: #1e293b;
+  --text-clear: #e2e8f0;
+  --accent-cyan: #38bdf8;
+  --terminal-green: #4ade80;
+  --border-dotted: rgba(56, 189, 248, 0.4);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: var(--bg-midnight);
+  color: var(--text-clear);
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.mission-container {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.mission-header {
+  text-align: center;
+  border-bottom: 2px solid var(--accent-cyan);
+  padding-bottom: 1rem;
+}
+
+.mission-header h1 {
+  color: var(--accent-cyan);
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  color: #94a3b8;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+/* Zona de Carga Accesible */
+.upload-zone {
+  background-color: var(--panel-dark);
+  border: 3px dashed var(--border-dotted);
+  border-radius: 16px;
+  padding: 3rem;
+  text-align: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.upload-zone:hover {
+  border-color: var(--accent-cyan);
+  background-color: rgba(56, 189, 248, 0.05);
+  transform: translateY(-2px);
+}
+
+.launch-button {
+  background: linear-gradient(135deg, var(--accent-cyan), #0284c7);
+  color: #000;
+  font-weight: 800;
+  font-size: 1.3rem;
+  padding: 1.2rem 2.5rem;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.launch-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(56, 189, 248, 0.5);
+}
+
+.helper-text {
+  margin-top: 1rem;
+  color: #94a3b8;
+  font-size: 0.95rem;
+}
+
+/* Panel de Resultados */
+.results-panel {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .results-panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+.canvas-container {
+  background-color: #000;
+  border-radius: 12px;
+  border: 1px solid var(--panel-dark);
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+#output-canvas {
+  max-width: 100%;
+  max-height: 100%;
+  display: none;
+}
+
+#placeholder-text {
+  color: #475569;
+  font-style: italic;
+}
+
+/* Consola de Telemetría */
+.telemetry-console {
+  background-color: #0f172a;
+  border-radius: 12px;
+  border: 1px solid var(--panel-dark);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.telemetry-console h3 {
+  color: var(--accent-cyan);
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--panel-dark);
+  padding-bottom: 0.5rem;
+}
+
+#json-output {
+  color: var(--terminal-green);
+  background-color: #020617;
+  padding: 1rem;
+  border-radius: 8px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.85rem;
+  overflow-y: auto;
+  max-height: 400px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.mission-footer {
+  text-align: center;
+  color: #64748b;
+  font-size: 0.85rem;
+  margin-top: 2rem;
+}
+.action-buttons-group {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.webcam-btn {
+  background: linear-gradient(135deg, #10b981, #059669) !important;
+  color: #fff !important;
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+}
+
+.webcam-btn:hover {
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.5);
+}
+
+.countdown-banner {
+  background-color: rgba(239, 68, 68, 0.15);
+  border: 1px solid #ef4444;
+  color: #fca5a5;
+  padding: 1rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  animation: pulse-border 1.5s infinite;
+}
+
+.pulsing-dot {
+  width: 12px;
+  height: 12px;
+  background-color: #ef4444;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #ef4444;
+  animation: pulse-glow 1s infinite alternate;
+}
+
+@keyframes pulse-glow {
+  0% { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(1.3); opacity: 1; }
+}
+
+@keyframes pulse-border {
+  0% { border-color: rgba(239, 68, 68, 0.4); }
+  50% { border-color: rgba(239, 68, 68, 1); }
+  100% { border-color: rgba(239, 68, 68, 0.4); }
+}

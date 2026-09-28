@@ -1,0 +1,2676 @@
+[
+    {
+        "timestamp": 1789874023.2009902,
+        "objects": [
+            {
+                "id": 67,
+                "width_cm": 5.1,
+                "height_cm": 2.4,
+                "area_cm2": 12.24,
+                "area_m2": 0.0012,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 203,
+                    "cy": 448
+                }
+            },
+            {
+                "id": 65,
+                "width_cm": 2.4,
+                "height_cm": 8.2,
+                "area_cm2": 19.68,
+                "area_m2": 0.002,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 439
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.1,
+                "height_cm": 11.9,
+                "area_cm2": 262.99,
+                "area_m2": 0.0263,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 365,
+                    "cy": 420
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 8.5,
+                "height_cm": 11.6,
+                "area_cm2": 98.6,
+                "area_m2": 0.0099,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 335,
+                    "cy": 255
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874024.1962643,
+        "objects": [
+            {
+                "id": 67,
+                "width_cm": 4.8,
+                "height_cm": 2.5,
+                "area_cm2": 12.0,
+                "area_m2": 0.0012,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 218,
+                    "cy": 467
+                }
+            },
+            {
+                "id": 67,
+                "width_cm": 5.2,
+                "height_cm": 2.5,
+                "area_cm2": 13.0,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 204,
+                    "cy": 447
+                }
+            },
+            {
+                "id": 65,
+                "width_cm": 2.4,
+                "height_cm": 8.2,
+                "area_cm2": 19.68,
+                "area_m2": 0.002,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 439
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.3,
+                "height_cm": 12.0,
+                "area_cm2": 267.6,
+                "area_m2": 0.0268,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 366,
+                    "cy": 420
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 8.9,
+                "height_cm": 14.0,
+                "area_cm2": 124.6,
+                "area_m2": 0.0125,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 338,
+                    "cy": 265
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874025.2006772,
+        "objects": [
+            {
+                "id": 67,
+                "width_cm": 7.0,
+                "height_cm": 5.2,
+                "area_cm2": 36.4,
+                "area_m2": 0.0036,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 214,
+                    "cy": 454
+                }
+            },
+            {
+                "id": 65,
+                "width_cm": 2.4,
+                "height_cm": 8.2,
+                "area_cm2": 19.68,
+                "area_m2": 0.002,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 439
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.2,
+                "height_cm": 12.0,
+                "area_cm2": 266.4,
+                "area_m2": 0.0266,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 371,
+                    "cy": 420
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874026.202185,
+        "objects": [
+            {
+                "id": 67,
+                "width_cm": 8.5,
+                "height_cm": 4.8,
+                "area_cm2": 40.8,
+                "area_m2": 0.0041,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 222,
+                    "cy": 456
+                }
+            },
+            {
+                "id": 65,
+                "width_cm": 2.5,
+                "height_cm": 8.4,
+                "area_cm2": 21.0,
+                "area_m2": 0.0021,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 438
+                }
+            },
+            {
+                "id": 70,
+                "width_cm": 11.0,
+                "height_cm": 12.1,
+                "area_cm2": 133.1,
+                "area_m2": 0.0133,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 538,
+                    "cy": 419
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.7,
+                "height_cm": 14.0,
+                "area_cm2": 317.8,
+                "area_m2": 0.0318,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 382,
+                    "cy": 410
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874027.2000346,
+        "objects": [
+            {
+                "id": 67,
+                "width_cm": 6.5,
+                "height_cm": 2.2,
+                "area_cm2": 14.3,
+                "area_m2": 0.0014,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 224,
+                    "cy": 469
+                }
+            },
+            {
+                "id": 67,
+                "width_cm": 5.3,
+                "height_cm": 2.4,
+                "area_cm2": 12.72,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 205,
+                    "cy": 449
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.6,
+                "height_cm": 14.5,
+                "area_cm2": 327.7,
+                "area_m2": 0.0328,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 374,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 8.2,
+                "height_cm": 11.5,
+                "area_cm2": 94.3,
+                "area_m2": 0.0094,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 339,
+                    "cy": 258
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874028.2015343,
+        "objects": [
+            {
+                "id": 71,
+                "width_cm": 2.5,
+                "height_cm": 8.3,
+                "area_cm2": 20.75,
+                "area_m2": 0.0021,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 438
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.3,
+                "height_cm": 15.4,
+                "area_cm2": 343.42,
+                "area_m2": 0.0343,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 362,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.7,
+                "height_cm": 10.1,
+                "area_cm2": 77.77,
+                "area_m2": 0.0078,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 324,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874029.2195644,
+        "objects": [
+            {
+                "id": 72,
+                "width_cm": 4.7,
+                "height_cm": 2.4,
+                "area_cm2": 11.28,
+                "area_m2": 0.0011,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 202,
+                    "cy": 447
+                }
+            },
+            {
+                "id": 71,
+                "width_cm": 2.5,
+                "height_cm": 8.2,
+                "area_cm2": 20.5,
+                "area_m2": 0.0021,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 439
+                }
+            },
+            {
+                "id": 73,
+                "width_cm": 10.8,
+                "height_cm": 10.4,
+                "area_cm2": 112.32,
+                "area_m2": 0.0112,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 550,
+                    "cy": 428
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.0,
+                "height_cm": 13.8,
+                "area_cm2": 303.6,
+                "area_m2": 0.0304,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 366,
+                    "cy": 411
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 5.0,
+                "height_cm": 7.5,
+                "area_cm2": 37.5,
+                "area_m2": 0.0037,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 340,
+                    "cy": 265
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874030.2002153,
+        "objects": [
+            {
+                "id": 71,
+                "width_cm": 2.5,
+                "height_cm": 8.4,
+                "area_cm2": 21.0,
+                "area_m2": 0.0021,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 12,
+                    "cy": 438
+                }
+            },
+            {
+                "id": 69,
+                "width_cm": 22.2,
+                "height_cm": 14.2,
+                "area_cm2": 315.24,
+                "area_m2": 0.0315,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 363,
+                    "cy": 409
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.5,
+                "height_cm": 6.2,
+                "area_cm2": 27.9,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 336,
+                    "cy": 264
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874031.205698,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 21.5,
+                "height_cm": 15.3,
+                "area_cm2": 328.95,
+                "area_m2": 0.0329,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 358,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 2.8,
+                "height_cm": 4.8,
+                "area_cm2": 13.44,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 296,
+                    "cy": 276
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.6,
+                "height_cm": 6.3,
+                "area_cm2": 28.98,
+                "area_m2": 0.0029,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 323,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874032.201668,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 21.4,
+                "height_cm": 15.7,
+                "area_cm2": 335.98,
+                "area_m2": 0.0336,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 350,
+                    "cy": 401
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.5,
+                "height_cm": 6.2,
+                "area_cm2": 27.9,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 311,
+                    "cy": 262
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874033.2093623,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 21.0,
+                "height_cm": 15.7,
+                "area_cm2": 329.7,
+                "area_m2": 0.033,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 347,
+                    "cy": 401
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 5.9,
+                "height_cm": 7.2,
+                "area_cm2": 42.48,
+                "area_m2": 0.0042,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 292,
+                    "cy": 265
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874034.2022188,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.6,
+                "height_cm": 15.4,
+                "area_cm2": 317.24,
+                "area_m2": 0.0317,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 349,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 2.2,
+                "height_cm": 5.0,
+                "area_cm2": 11.0,
+                "area_m2": 0.0011,
+                "velocity_ms": 0.06,
+                "centroid": {
+                    "cx": 277,
+                    "cy": 277
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.4,
+                "height_cm": 7.1,
+                "area_cm2": 31.24,
+                "area_m2": 0.0031,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 303,
+                    "cy": 256
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874035.1956334,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.4,
+                "height_cm": 15.5,
+                "area_cm2": 316.2,
+                "area_m2": 0.0316,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 402
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.5,
+                "height_cm": 6.1,
+                "area_cm2": 27.45,
+                "area_m2": 0.0027,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 297,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874036.19591,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.4,
+                "height_cm": 15.3,
+                "area_cm2": 312.12,
+                "area_m2": 0.0312,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 347,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.3,
+                "height_cm": 7.4,
+                "area_cm2": 31.82,
+                "area_m2": 0.0032,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 299,
+                    "cy": 257
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874037.2031457,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.2,
+                "height_cm": 15.4,
+                "area_cm2": 311.08,
+                "area_m2": 0.0311,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 347,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.5,
+                "height_cm": 6.2,
+                "area_cm2": 27.9,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 299,
+                    "cy": 262
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874038.2073972,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.0,
+                "height_cm": 15.3,
+                "area_cm2": 306.0,
+                "area_m2": 0.0306,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 346,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.3,
+                "height_cm": 6.4,
+                "area_cm2": 27.52,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 299,
+                    "cy": 260
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874039.1955397,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.2,
+                "height_cm": 15.3,
+                "area_cm2": 309.06,
+                "area_m2": 0.0309,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 346,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.3,
+                "height_cm": 6.7,
+                "area_cm2": 28.81,
+                "area_m2": 0.0029,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 296,
+                    "cy": 258
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874040.2043364,
+        "objects": [
+            {
+                "id": 69,
+                "width_cm": 20.6,
+                "height_cm": 15.5,
+                "area_cm2": 319.3,
+                "area_m2": 0.0319,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 402
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.4,
+                "height_cm": 6.4,
+                "area_cm2": 28.16,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 298,
+                    "cy": 260
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874041.2122972,
+        "objects": [
+            {
+                "id": 50,
+                "width_cm": 4.2,
+                "height_cm": 6.1,
+                "area_cm2": 25.62,
+                "area_m2": 0.0026,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 293,
+                    "cy": 261
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874042.1934438,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 19.4,
+                "height_cm": 14.5,
+                "area_cm2": 281.3,
+                "area_m2": 0.0281,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.1,
+                "height_cm": 6.9,
+                "area_cm2": 28.29,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 295,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874043.1973763,
+        "objects": [
+            {
+                "id": 75,
+                "width_cm": 10.6,
+                "height_cm": 11.3,
+                "area_cm2": 119.78,
+                "area_m2": 0.012,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 537,
+                    "cy": 423
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 19.6,
+                "height_cm": 15.0,
+                "area_cm2": 294.0,
+                "area_m2": 0.0294,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.3,
+                "height_cm": 5.9,
+                "area_cm2": 25.37,
+                "area_m2": 0.0025,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 294,
+                    "cy": 265
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874044.2017605,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.2,
+                "height_cm": 15.1,
+                "area_cm2": 305.02,
+                "area_m2": 0.0305,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 341,
+                    "cy": 404
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.3,
+                "height_cm": 6.4,
+                "area_cm2": 27.52,
+                "area_m2": 0.0028,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 293,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874045.202675,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.0,
+                "height_cm": 15.0,
+                "area_cm2": 300.0,
+                "area_m2": 0.03,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.4,
+                "height_cm": 7.2,
+                "area_cm2": 31.68,
+                "area_m2": 0.0032,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 295,
+                    "cy": 259
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874046.2016814,
+        "objects": [
+            {
+                "id": 76,
+                "width_cm": 10.3,
+                "height_cm": 10.8,
+                "area_cm2": 111.24,
+                "area_m2": 0.0111,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 520,
+                    "cy": 426
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.2,
+                "height_cm": 15.0,
+                "area_cm2": 303.0,
+                "area_m2": 0.0303,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 343,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.0,
+                "height_cm": 6.9,
+                "area_cm2": 41.4,
+                "area_m2": 0.0041,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 288,
+                    "cy": 268
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874047.2229464,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.2,
+                "height_cm": 15.0,
+                "area_cm2": 303.0,
+                "area_m2": 0.0303,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.2,
+                "height_cm": 6.0,
+                "area_cm2": 25.2,
+                "area_m2": 0.0025,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 297,
+                    "cy": 264
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874048.1981995,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.8,
+                "height_cm": 15.4,
+                "area_cm2": 320.32,
+                "area_m2": 0.032,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 339,
+                    "cy": 403
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.2,
+                "height_cm": 5.9,
+                "area_cm2": 24.78,
+                "area_m2": 0.0025,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 298,
+                    "cy": 262
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874049.198456,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.5,
+                "height_cm": 15.1,
+                "area_cm2": 309.55,
+                "area_m2": 0.031,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 339,
+                    "cy": 404
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.4,
+                "height_cm": 6.0,
+                "area_cm2": 26.4,
+                "area_m2": 0.0026,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 294,
+                    "cy": 264
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874050.1994138,
+        "objects": [
+            {
+                "id": 77,
+                "width_cm": 10.4,
+                "height_cm": 10.4,
+                "area_cm2": 108.16,
+                "area_m2": 0.0108,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 512,
+                    "cy": 428
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.4,
+                "height_cm": 15.0,
+                "area_cm2": 306.0,
+                "area_m2": 0.0306,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 342,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 5.8,
+                "height_cm": 7.6,
+                "area_cm2": 44.08,
+                "area_m2": 0.0044,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 283,
+                    "cy": 266
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874051.2097588,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.4,
+                "height_cm": 14.9,
+                "area_cm2": 303.96,
+                "area_m2": 0.0304,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.5,
+                "height_cm": 7.2,
+                "area_cm2": 32.4,
+                "area_m2": 0.0032,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 291,
+                    "cy": 260
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874052.2070467,
+        "objects": [
+            {
+                "id": 78,
+                "width_cm": 10.0,
+                "height_cm": 10.3,
+                "area_cm2": 103.0,
+                "area_m2": 0.0103,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 510,
+                    "cy": 428
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.6,
+                "height_cm": 14.9,
+                "area_cm2": 306.94,
+                "area_m2": 0.0307,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 341,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.0,
+                "height_cm": 9.3,
+                "area_cm2": 65.1,
+                "area_m2": 0.0065,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 288,
+                    "cy": 261
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874053.2335615,
+        "objects": [
+            {
+                "id": 78,
+                "width_cm": 10.0,
+                "height_cm": 10.0,
+                "area_cm2": 100.0,
+                "area_m2": 0.01,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 510,
+                    "cy": 430
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.8,
+                "height_cm": 14.8,
+                "area_cm2": 307.84,
+                "area_m2": 0.0308,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 406
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.3,
+                "height_cm": 9.7,
+                "area_cm2": 70.81,
+                "area_m2": 0.0071,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 290,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874054.2044463,
+        "objects": [
+            {
+                "id": 78,
+                "width_cm": 10.1,
+                "height_cm": 10.8,
+                "area_cm2": 109.08,
+                "area_m2": 0.0109,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 509,
+                    "cy": 426
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.6,
+                "area_cm2": 302.22,
+                "area_m2": 0.0302,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 346,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.1,
+                "height_cm": 9.5,
+                "area_cm2": 67.45,
+                "area_m2": 0.0067,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 283,
+                    "cy": 262
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874054.9729743,
+        "objects": [
+            {
+                "id": 74,
+                "width_cm": 20.9,
+                "height_cm": 14.7,
+                "area_cm2": 307.23,
+                "area_m2": 0.0307,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 406
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.5,
+                "height_cm": 3.3,
+                "area_cm2": 11.55,
+                "area_m2": 0.0012,
+                "velocity_ms": 0.06,
+                "centroid": {
+                    "cx": 319,
+                    "cy": 283
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.4,
+                "height_cm": 10.0,
+                "area_cm2": 64.0,
+                "area_m2": 0.0064,
+                "velocity_ms": 0.06,
+                "centroid": {
+                    "cx": 278,
+                    "cy": 264
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874054.9977567,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.8,
+                "height_cm": 9.1,
+                "area_cm2": 89.18,
+                "area_m2": 0.0089,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 503,
+                    "cy": 434
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.8,
+                "height_cm": 14.7,
+                "area_cm2": 305.76,
+                "area_m2": 0.0306,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 406
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.5,
+                "height_cm": 3.2,
+                "area_cm2": 11.2,
+                "area_m2": 0.0011,
+                "velocity_ms": 1.78,
+                "centroid": {
+                    "cx": 319,
+                    "cy": 284
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.6,
+                "height_cm": 9.9,
+                "area_cm2": 65.34,
+                "area_m2": 0.0065,
+                "velocity_ms": 1.9,
+                "centroid": {
+                    "cx": 279,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874055.8124063,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 10.0,
+                "height_cm": 9.7,
+                "area_cm2": 97.0,
+                "area_m2": 0.0097,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 511,
+                    "cy": 431
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.7,
+                "area_cm2": 304.29,
+                "area_m2": 0.0304,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 406
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.5,
+                "height_cm": 3.8,
+                "area_cm2": 13.3,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 323,
+                    "cy": 283
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.0,
+                "height_cm": 10.0,
+                "area_cm2": 70.0,
+                "area_m2": 0.007,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 283,
+                    "cy": 263
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874056.8163846,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 10.2,
+                "height_cm": 11.3,
+                "area_cm2": 115.26,
+                "area_m2": 0.0115,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 515,
+                    "cy": 423
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.9,
+                "height_cm": 14.6,
+                "area_cm2": 305.14,
+                "area_m2": 0.0305,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.5,
+                "height_cm": 3.5,
+                "area_cm2": 12.25,
+                "area_m2": 0.0012,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 328,
+                    "cy": 285
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.0,
+                "height_cm": 10.2,
+                "area_cm2": 71.4,
+                "area_m2": 0.0071,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 285,
+                    "cy": 264
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874057.8158636,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 10.3,
+                "height_cm": 9.9,
+                "area_cm2": 101.97,
+                "area_m2": 0.0102,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 523,
+                    "cy": 430
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 21.0,
+                "height_cm": 14.6,
+                "area_cm2": 306.6,
+                "area_m2": 0.0307,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.5,
+                "height_cm": 3.6,
+                "area_cm2": 12.6,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 326,
+                    "cy": 286
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.0,
+                "height_cm": 10.1,
+                "area_cm2": 70.7,
+                "area_m2": 0.0071,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 285,
+                    "cy": 265
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874058.8159907,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 10.1,
+                "height_cm": 10.5,
+                "area_cm2": 106.05,
+                "area_m2": 0.0106,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 519,
+                    "cy": 427
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.6,
+                "area_cm2": 302.22,
+                "area_m2": 0.0302,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 345,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.6,
+                "height_cm": 3.7,
+                "area_cm2": 13.32,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 323,
+                    "cy": 287
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.1,
+                "height_cm": 10.1,
+                "area_cm2": 71.71,
+                "area_m2": 0.0072,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 282,
+                    "cy": 267
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874059.8139849,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.8,
+                "height_cm": 10.3,
+                "area_cm2": 100.94,
+                "area_m2": 0.0101,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 515,
+                    "cy": 428
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.9,
+                "height_cm": 14.7,
+                "area_cm2": 307.23,
+                "area_m2": 0.0307,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 342,
+                    "cy": 406
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.8,
+                "height_cm": 3.5,
+                "area_cm2": 13.3,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 288
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.1,
+                "height_cm": 10.0,
+                "area_cm2": 71.0,
+                "area_m2": 0.0071,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 279,
+                    "cy": 268
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874060.8137057,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.9,
+                "height_cm": 10.0,
+                "area_cm2": 99.0,
+                "area_m2": 0.0099,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 517,
+                    "cy": 430
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.6,
+                "area_cm2": 302.22,
+                "area_m2": 0.0302,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 341,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.7,
+                "height_cm": 3.6,
+                "area_cm2": 13.32,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 317,
+                    "cy": 289
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.0,
+                "height_cm": 9.9,
+                "area_cm2": 69.3,
+                "area_m2": 0.0069,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 277,
+                    "cy": 268
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874061.8140855,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.8,
+                "height_cm": 9.7,
+                "area_cm2": 95.06,
+                "area_m2": 0.0095,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 520,
+                    "cy": 431
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.6,
+                "height_cm": 14.4,
+                "area_cm2": 296.64,
+                "area_m2": 0.0297,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 343,
+                    "cy": 408
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.8,
+                "height_cm": 3.6,
+                "area_cm2": 13.68,
+                "area_m2": 0.0014,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 319,
+                    "cy": 289
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 7.0,
+                "height_cm": 10.0,
+                "area_cm2": 70.0,
+                "area_m2": 0.007,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 278,
+                    "cy": 269
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874062.8228354,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.5,
+                "height_cm": 9.1,
+                "area_cm2": 86.45,
+                "area_m2": 0.0086,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 524,
+                    "cy": 434
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.4,
+                "height_cm": 14.2,
+                "area_cm2": 289.68,
+                "area_m2": 0.029,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 343,
+                    "cy": 409
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.7,
+                "height_cm": 3.6,
+                "area_cm2": 13.32,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 317,
+                    "cy": 292
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.9,
+                "height_cm": 10.0,
+                "area_cm2": 69.0,
+                "area_m2": 0.0069,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 277,
+                    "cy": 271
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874063.8215265,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.7,
+                "height_cm": 9.1,
+                "area_cm2": 88.27,
+                "area_m2": 0.0088,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 528,
+                    "cy": 434
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.3,
+                "area_cm2": 296.01,
+                "area_m2": 0.0296,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 341,
+                    "cy": 408
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.7,
+                "height_cm": 3.5,
+                "area_cm2": 12.95,
+                "area_m2": 0.0013,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 317,
+                    "cy": 292
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.9,
+                "height_cm": 9.9,
+                "area_cm2": 68.31,
+                "area_m2": 0.0068,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 277,
+                    "cy": 271
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874065.1926866,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.7,
+                "height_cm": 10.5,
+                "area_cm2": 101.85,
+                "area_m2": 0.0102,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 510,
+                    "cy": 427
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.4,
+                "height_cm": 14.4,
+                "area_cm2": 293.76,
+                "area_m2": 0.0294,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 344,
+                    "cy": 408
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.3,
+                "height_cm": 3.4,
+                "area_cm2": 11.22,
+                "area_m2": 0.0011,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 319,
+                    "cy": 290
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.7,
+                "height_cm": 10.0,
+                "area_cm2": 67.0,
+                "area_m2": 0.0067,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 278,
+                    "cy": 269
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874066.2062776,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.5,
+                "height_cm": 10.0,
+                "area_cm2": 95.0,
+                "area_m2": 0.0095,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 505,
+                    "cy": 430
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.6,
+                "height_cm": 14.6,
+                "area_cm2": 300.76,
+                "area_m2": 0.0301,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 342,
+                    "cy": 407
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 3.2,
+                "height_cm": 3.4,
+                "area_cm2": 10.88,
+                "area_m2": 0.0011,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 319,
+                    "cy": 288
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.7,
+                "height_cm": 9.9,
+                "area_cm2": 66.33,
+                "area_m2": 0.0066,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 277,
+                    "cy": 267
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874067.1886177,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 9.6,
+                "height_cm": 10.6,
+                "area_cm2": 101.76,
+                "area_m2": 0.0102,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 511,
+                    "cy": 427
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.3,
+                "area_cm2": 296.01,
+                "area_m2": 0.0296,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 343,
+                    "cy": 408
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 4.6,
+                "height_cm": 5.4,
+                "area_cm2": 24.84,
+                "area_m2": 0.0025,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 269,
+                    "cy": 246
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874068.2195635,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 7.5,
+                "height_cm": 10.5,
+                "area_cm2": 78.75,
+                "area_m2": 0.0079,
+                "velocity_ms": 0.03,
+                "centroid": {
+                    "cx": 485,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 26.5,
+                "height_cm": 15.0,
+                "area_cm2": 397.5,
+                "area_m2": 0.0398,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 299,
+                    "cy": 405
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 2.6,
+                "height_cm": 5.7,
+                "area_cm2": 14.82,
+                "area_m2": 0.0015,
+                "velocity_ms": 0.08,
+                "centroid": {
+                    "cx": 257,
+                    "cy": 288
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874069.201086,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 8.6,
+                "height_cm": 10.6,
+                "area_cm2": 91.16,
+                "area_m2": 0.0091,
+                "velocity_ms": 0.02,
+                "centroid": {
+                    "cx": 501,
+                    "cy": 410
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.6,
+                "height_cm": 14.7,
+                "area_cm2": 302.82,
+                "area_m2": 0.0303,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 335,
+                    "cy": 406
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 5.9,
+                "height_cm": 8.4,
+                "area_cm2": 49.56,
+                "area_m2": 0.005,
+                "velocity_ms": 0.05,
+                "centroid": {
+                    "cx": 277,
+                    "cy": 251
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874070.199341,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 8.9,
+                "height_cm": 11.3,
+                "area_cm2": 100.57,
+                "area_m2": 0.0101,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 507,
+                    "cy": 421
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.7,
+                "height_cm": 14.0,
+                "area_cm2": 289.8,
+                "area_m2": 0.029,
+                "velocity_ms": 0.01,
+                "centroid": {
+                    "cx": 342,
+                    "cy": 410
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.5,
+                "height_cm": 10.6,
+                "area_cm2": 68.9,
+                "area_m2": 0.0069,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 293,
+                    "cy": 267
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": 1789874071.1871421,
+        "objects": [
+            {
+                "id": 79,
+                "width_cm": 8.8,
+                "height_cm": 11.6,
+                "area_cm2": 102.08,
+                "area_m2": 0.0102,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 508,
+                    "cy": 422
+                }
+            },
+            {
+                "id": 74,
+                "width_cm": 20.8,
+                "height_cm": 14.2,
+                "area_cm2": 295.36,
+                "area_m2": 0.0295,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 342,
+                    "cy": 409
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 6.6,
+                "height_cm": 10.9,
+                "area_cm2": 71.94,
+                "area_m2": 0.0072,
+                "velocity_ms": 0.04,
+                "centroid": {
+                    "cx": 294,
+                    "cy": 266
+                }
+            },
+            {
+                "id": 50,
+                "width_cm": 64.0,
+                "height_cm": 48.0,
+                "area_cm2": 3072.0,
+                "area_m2": 0.3072,
+                "velocity_ms": 0.0,
+                "centroid": {
+                    "cx": 320,
+                    "cy": 240
+                }
+            }
+        ]
+    }
+]

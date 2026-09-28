@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NASA Telemetry & Object Tracker - Control de Misión</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+  <div class="mission-container">
+    <header class="mission-header">
+      <h1>🚀 NASA Object Tracker & Telemetry System</h1>
+      <p class="subtitle">Simulador de Trayectoria Orbital y Análisis Físico en Tiempo Real</p>
+    </header>
+
+    <main class="mission-control">
+      <section class="upload-zone" id="upload-zone">
+        <input type="file" id="file-input" accept="image/*" hidden>
+        <div class="action-buttons-group">
+          <button class="launch-button" id="launch-btn">
+            <span class="icon">📁</span>
+            <span class="text">Cargar Imagen de Escaneo</span>
+          </button>
+          <button class="launch-button webcam-btn" id="webcam-launch-btn">
+            <span class="icon">🛰️</span>
+            <span class="text">Iniciar Secuencia de Lanzamiento (Webcam 20s)</span>
+          </button>
+        </div>
+        <p class="helper-text">Selecciona una imagen o inicia el simulador de despegue con la cámara.</p>
+      </section>
+
+      <div id="countdown-banner" class="countdown-banner" style="display: none;">
+        <span class="pulsing-dot"></span>
+        <span id="countdown-text">FASE DE ASCENSO: Saliendo de la atmósfera terrestre... T-20s</span>
+      </div>
+
+      <section class="results-panel">
+        <div class="canvas-container">
+          <video id="webcam-video" autoplay playsinline style="display:none;"></video>
+          <canvas id="output-canvas"></canvas>
+          <p id="placeholder-text">Esperando datos de telemetría de misión...</p>
+        </div>
+        <div class="telemetry-console">
+          <h3>📡 Telemetría en Tiempo Real (JSON)</h3>
+          <pre id="json-output">// Los datos de la misión aparecerán aquí...</pre>
+        </div>
+      </section>
+    </main>
+
+    <footer class="mission-footer">
+      <p>Sistema desarrollado para el Concurso de Innovación Aeroespacial de la NASA. v2.0.0 (Modo Orbital)</p>
+    </footer>
+  </div>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
+
